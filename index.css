@@ -1,0 +1,32 @@
+.bottom_aligner {
+    height:10%; 
+    position:absolute; 
+    bottom:0px;
+}
+
+.about{
+    font-family:cursive;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    color: indigo;
+}
+
+.contact{
+    font-family:cursive;
+    font-style: italic;
+    font-size:x-large;
+    text-align: left;
+    color: indigo;
+}
+
+h3{
+    color:indigo;
+}
+
+h2{
+    color:indigo;
+    font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
